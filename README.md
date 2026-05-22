@@ -2,6 +2,8 @@
 
 [![skills.sh](https://skills.sh/b/yltw27/agent-hygiene)](https://skills.sh/yltw27/agent-hygiene)
 
+![Example](./screenshot.png)
+
 > Skills accumulate. Most don't get cleaned up.
 
 `agent-hygiene` is a local-first audit skill for coding-agent setups. It inspects your installed skills, MCP/plugin configuration, and recent usage signals to surface what's causing context noise — stale skills, broad triggers, duplicates — and tells you what to keep, tighten, or remove.
