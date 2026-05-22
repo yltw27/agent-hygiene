@@ -1,0 +1,6 @@
+interface:
+  display_name: "Agent Hygiene"
+  short_description: "Audit installed agent skills and tool usage"
+  default_prompt: "Use $agent-hygiene to audit my local agent setup and recommend what to keep, move, or remove."
+policy:
+  allow_implicit_invocation: false
