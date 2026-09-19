@@ -1,5 +1,9 @@
 # Agent Hygiene Skill
 
+> **New collection:** Future development lives in [yltw27/agent-skills](https://github.com/yltw27/agent-skills), alongside independently installable skills such as Kindle Notes. This repository remains available for existing links and installations.
+>
+> To install from the new source: `npx --yes skills@latest add yltw27/agent-skills --skill agent-hygiene`. Keep a single active installation when migrating; do not add a duplicate copy in another agent directory.
+
 [![skills.sh](https://skills.sh/b/yltw27/agent-hygiene)](https://skills.sh/yltw27/agent-hygiene)
 
 ![Example](./screenshot.png)
